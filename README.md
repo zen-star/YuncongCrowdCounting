@@ -7,4 +7,4 @@ The detailed introduction is shown in _GGSDT_PyramidBox/ModelGuidance_.
 I'm a noob of DeepLearning, and now working in Hikvision as an intern, focusing on instance segmentation. Welcome to contact me! Here is my email addr: luckyzsd@163.com.
 
 
-Thank [zjuai.club] and [github.com/Goingqs/PyramidBox.pytorch] a lot for selfless help.
+Thank <zjuai.club/> and <github.com/Goingqs/> a lot for selfless help.
